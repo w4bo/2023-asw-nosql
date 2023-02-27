@@ -1,6 +1,6 @@
 # NoSQL in Action!
 
-https://github.com/w4bo/2022-sem-nosql
+https://github.com/w4bo/2023-asw-nosql
 
 NoSQL (Not Only SQL) exercises.
 

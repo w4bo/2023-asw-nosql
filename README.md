@@ -1,8 +1,10 @@
 # NoSQL in Action!
 
-https://github.com/w4bo/2023-asw-nosql
-
 NoSQL (Not Only SQL) exercises.
+
+1. Run Docker
+1. `git clone https://github.com/w4bo/2023-asw-nosql.git`
+1. Double click on `code/start.bat`
 
 ## Install
 

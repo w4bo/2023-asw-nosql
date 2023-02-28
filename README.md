@@ -2,10 +2,11 @@
 
 NoSQL (Not Only SQL) exercises.
 
-1. Install Robo3T
-1. Run Docker
-1. `git clone https://github.com/w4bo/2023-asw-nosql.git`
-1. Double click on `code/start.bat`
+1. Install and run Robo3T
+1. Install and run Docker Desktop
+1. Clone the repository: `git clone https://github.com/w4bo/2023-asw-nosql.git`
+1. Double click on `code/start.bat` (on Windows)
+1. Connect Robo3T to MongoDB (`localhost:27018`)
 
 ## Install
 

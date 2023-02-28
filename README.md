@@ -2,6 +2,7 @@
 
 NoSQL (Not Only SQL) exercises.
 
+1. Install Robo3T
 1. Run Docker
 1. `git clone https://github.com/w4bo/2023-asw-nosql.git`
 1. Double click on `code/start.bat`
